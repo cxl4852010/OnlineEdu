@@ -1,0 +1,2 @@
+1.有时候一直提示找不到自己写的包
+勾选settings->Maven->Runner->Delegate IDE bulid  或者 手动导包
